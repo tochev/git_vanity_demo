@@ -3,4 +3,5 @@ A demo repository for git-vanity http://github.com/tochev/git-vanity
 Look at the commit ids.
 
 $ git log --format='%h  %s'
+0123456  commit identified by 0123456789
 fffffff  commit identified by ffffffffff
