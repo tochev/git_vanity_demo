@@ -1,0 +1,6 @@
+A demo repository for git-vanity http://github.com/tochev/git-vanity
+
+Look at the commit ids.
+
+$ git log --format='%h  %s'
+fffffff  commit identified by ffffffffff
